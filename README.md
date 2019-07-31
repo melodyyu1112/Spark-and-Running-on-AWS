@@ -1,2 +1,2 @@
 # Spark-and-Running-on-AWS
- writing Spark and Spark SQL code, to be executed both locally on your machine and also using Amazon Web Services.
+ Writing Spark and Spark SQL code, running distributed data processing in the cloud using AWS.
